@@ -1,0 +1,48 @@
+.App {
+   background:  #f5f5f5;; 
+   min-width: 300px; 
+  padding: 25px 50px;
+}
+.edit{
+  width:85%;
+  border:none;
+  border-bottom: 1px solid black;
+  background-color: transparent;
+  font-size: 16px;
+}
+.button{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+}
+.bttn{
+  margin:0 10px;
+  padding:10px;
+  font-size:14px;
+  cursor: pointer;
+  background-color: #3bb19b;
+  border: none;
+  border-radius: 1.2rem;
+}
+.button.selected{
+  margin:0 10px;
+  padding:10px;
+  font-size:14px;
+  color: #f7f3f3;
+cursor: pointer;
+background-color: brown;
+border: none;
+ border-radius: 1.2rem;
+}
+.removetodos{
+  margin:0 10px;
+  padding:10px;
+  font-size:14px;
+  color: #f7f3f3;
+cursor: pointer;
+background-color: brown;
+border: none;
+ border-radius: 1.2rem;
+}
+
